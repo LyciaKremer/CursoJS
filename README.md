@@ -1,2 +1,2 @@
 # CursoJS
-Repositório voltado pra o estudo.
+Repositório voltado para o estudo.
